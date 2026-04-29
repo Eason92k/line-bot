@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+line-bot-sdk>=3.0.0
+google-generativeai
+sqlalchemy
+python-dotenv
+yfinance
+requests
+aiohttp
